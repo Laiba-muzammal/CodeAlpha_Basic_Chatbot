@@ -1,5 +1,6 @@
 # Simple Chatbot using NLTK
-<pre>This project contains a simple text-based chatbot built using Python and the NLTK library. The chatbot can have basic conversations with users, respond to predefined questions, tell jokes, share fun facts, and assist with other basic queries.
+<pre>This project contains a simple text-based chatbot built using Python and the NLTK library. 
+The chatbot can have basic conversations with users, respond to predefined questions, tell jokes, share fun facts, and assist with other basic queries.
 
 <h2>Features:</h2>
 Responds to user input based on predefined patterns using regular expressions.
