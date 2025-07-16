@@ -26,7 +26,7 @@ A beginner-friendly chatbot built using Python's `nltk.chat.util.Chat` module.
 
 ```bash
 nltk_chatbot/
-├── chatbot.py # Main Python script containing the chatbot logic
+├── main.py # Main Python script containing the chatbot logic
 └── README.md # Project documentation
 ```
 
