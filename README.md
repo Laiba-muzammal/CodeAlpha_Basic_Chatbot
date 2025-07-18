@@ -82,4 +82,5 @@ Fun interactive mini-game in terminal
 
 ---
 
-##### 👩‍💻 Built with ❤️ using NLTK and Python
+##### 👩‍💻 Author:
+Built with ❤️ using NLTK and Python
