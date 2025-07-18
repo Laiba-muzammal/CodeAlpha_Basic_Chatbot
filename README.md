@@ -39,14 +39,14 @@ nltk_chatbot/
 pip install nltk
 ```
 
-#### Run the chatbot:
+#### Run the chatbot
 ```
 python chatbot.py
 ```
 
 ---
 
-### 📚 Example:
+### 📚 Example
 ```
 ************CHATBOT*************
 Chatbot: Hello! I am your Chatbot. Ask me anything.
@@ -64,7 +64,7 @@ Chatbot: Bye! Have a nice day
 
 ---
 
-### 🔧 Extend Patterns:
+### 🔧 Extend Patterns
 You can add more conversational patterns in the conversation list like this:
 
 ```
@@ -73,7 +73,7 @@ You can add more conversational patterns in the conversation list like this:
 
 ---
 
-### ✅ Use Cases:
+### ✅ Use Cases
 Beginners exploring Natural Language Processing (NLP)
 
 Academic or demo projects
@@ -82,5 +82,5 @@ Fun interactive mini-game in terminal
 
 ---
 
-##### 👩‍💻 Author:
+##### 👩‍💻 Author
 Built with ❤️ using NLTK and Python
